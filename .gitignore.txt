@@ -1,1 +1,4 @@
-file.log
+*.log
+*.db
+build/target
+build/bin
